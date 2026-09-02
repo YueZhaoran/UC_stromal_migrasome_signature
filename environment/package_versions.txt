@@ -1,0 +1,21 @@
+# Package versions used for manuscript analysis
+
+Please record exact versions before submission.
+
+Seurat:
+Harmony:
+SingleR:
+scPagwas:
+Scissor:
+GSVA:
+limma:
+clusterProfiler:
+CellChat:
+xCell:
+scTenifoldKnk:
+randomForest:
+glmnet:
+e1071:
+
+Generated with:
+sessionInfo()

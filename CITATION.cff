@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and this repository."
+title: "UC stromal migrasome signature"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/USERNAME/UC_stromal_migrasome_signature"
