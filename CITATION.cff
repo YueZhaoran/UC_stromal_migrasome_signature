@@ -5,3 +5,16 @@ type: software
 version: 1.0.0
 license: MIT
 repository-code: "https://github.com/USERNAME/UC_stromal_migrasome_signature"
+cff-version: 1.2.0
+message: "If you use this repository, please cite this work."
+title: "Integrating genetic risk and single-cell transcriptomics identifies a stromal migrasome-related signature in ulcerative colitis"
+
+authors:
+  - family-names: Zhou
+    given-names: Xin
+
+repository-code: "https://github.com/YueZhaoran/UC_stromal_migrasome_signature"
+
+doi: "10.5281/zenodo.22241443"
+
+license: MIT
