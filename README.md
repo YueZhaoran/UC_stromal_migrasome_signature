@@ -55,7 +55,15 @@ Before running:
 5. Run scripts sequentially.
 
 ## Repository structure
+## Code availability
 
+The analysis code supporting this study is publicly available at:
+
+GitHub:
+https://github.com/YueZhaoran/UC_stromal_migrasome_signature
+
+Archived version:
+https://doi.org/10.5281/zenodo.22241443
 scripts/      R analysis workflows  
 data/         dataset instructions  
 resources/    gene lists and annotations  
